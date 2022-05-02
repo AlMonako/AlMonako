@@ -1,4 +1,4 @@
-- 👋 Hi, I’m chess coach, my name is Alexsey Monakov
+- 👋 Hi, I’m chess coach, my name is Alexsey Manakov
 - 👀 I’m interested in HTML, CSS and JavaScript
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on website development. I'm looking for mentor
